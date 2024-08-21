@@ -18,12 +18,13 @@
           </div>
 		   <span>
 		  <h3>5 Reasons why this game is my favortite.</h3>
-		  <ol>
-		     <li>fun</li>
-			 <li>entertaing</li>
-			 <li>creative</li>
-			 <li>good</li>
-			 <li>enjoyable</li>
-		</ol> 
+		  <ul>
+		     <li>It is fun</li>
+			 <li>The game is entertaining when choosing outfits to wear</li>
+			 <li>It enhances my creativity skills</li>
+			 <li>The game is amazing</li>
+			 <li>It is good to compete with other users.</li>
+		  </ul> 
+		  <p>Copyright Ysabella Mia Arboleda 9-Sodium.</p>
       </body>
  </html>
