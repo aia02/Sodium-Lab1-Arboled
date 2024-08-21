@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<DOCTYPE html>
 
 <html>
 
@@ -13,9 +13,17 @@
       </head>
       <body>
 	      <div>
-		  <span>
 		  <h1>Roblox</h1>
 		  <p>Roblox is a online multiplayer game that allows users to design their own games and play a wide variety of different types of games created by users. One of my favorite game to play in Roblox is DTI or Dress To Impress. Dress To Impress is a game  about showing your fashion creativity. In Dress To Impress you can show your artistic way of making a stylish oufits. By joining one of the themed contests you can earn stars and climb from the ranks "New Model" to "Top Model"</p>
           </div>
+		   <span>
+		  <h3>5 Reasons why this game is my favortite.</h3>
+		  <ol>
+		     <li>fun</li>
+			 <li>entertaing</li>
+			 <li>creative</li>
+			 <li>good</li>
+			 <li>enjoyable</li>
+		</ol> 
       </body>
  </html>
